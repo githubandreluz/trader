@@ -16,7 +16,7 @@ This project assumes that any rule can be added or removed any time, and the cod
         - Fill the file "inputFile_Portifolio.json" (located on application root) with the desired data, press F5 on Visual Situdio.
         
 #Question 2 (Procedural T-SQL to solve the same problem)
-    - The T-SQL can be found here (https://gitlab.com/gitlabandre/trader/-/blob/master/QUESTION%202%20-%20PROCEDURAL%20VERSION/T-SQL%20-%20Procedural%20Solution%20(Question%202).sql) including the script to create tables, inserts, function and the SQL procedure.
+    - The T-SQL can be found here (https://github.com/githubandreluz/trader/blob/master/QUESTION%202%20-%20PROCEDURAL%20VERSION/T-SQL%20-%20Procedural%20Solution%20(Question%202).sql) including the script to create tables, inserts, function and the SQL procedure.
     #How to run: 
         - Download the SQL file located on the link above
         - Execute a creation scripting selecting all code from the begin until this commentary "--TO EXECUTE SELECT FROM THIS LINE UNTIL THE END" , after execute the creation script, select the code from this commentary "--TO EXECUTE SELECT FROM THIS LINE UNTIL THE END" until the end and execute the script.
