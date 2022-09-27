@@ -13,10 +13,10 @@ This project assumes that any rule can be added or removed any time, and the cod
     - Integration Tests
 
  #User interface: 
-    ![UserInterface](https://drive.google.com/file/d/1i8M3cwCvmldmyarpvMydjGLAl-hmsRft/view?usp=sharing)
+    ![UserInterface](https://lh3.google.com/u/0/d/1i8M3cwCvmldmyarpvMydjGLAl-hmsRft=w1920-h890-iv1)
     
 #Tests:
-    ![Tests](https://drive.google.com/file/d/1MqlX414b55_DkvlECnXB5zZmV5YymbJI/view?usp=sharing)
+    ![Tests](https://lh3.google.com/u/0/d/1MqlX414b55_DkvlECnXB5zZmV5YymbJI=w1920-h890-iv1)
 
 #How to run: 
         - Fill the file "inputFile_Portifolio.json" (located on application root) with the desired data, press F5 on Visual Situdio.
