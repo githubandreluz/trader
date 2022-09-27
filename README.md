@@ -12,15 +12,14 @@ This project assumes that any rule can be added or removed any time, and the cod
     - Unit Tests
     - Integration Tests
 
-    #User interface: 
+ #User interface: 
     ![UserInterface](https://drive.google.com/file/d/1i8M3cwCvmldmyarpvMydjGLAl-hmsRft/view?usp=sharing)
-    
-    #Tests:
+#Tests:
     ![Tests](https://drive.google.com/file/d/1MqlX414b55_DkvlECnXB5zZmV5YymbJI/view?usp=sharing)
 
-    #How to run: 
+#How to run: 
         - Fill the file "inputFile_Portifolio.json" (located on application root) with the desired data, press F5 on Visual Situdio.
-    
+        
 #Question 2 (Procedural T-SQL to solve the same problem)
     - The T-SQL can be found here (https://gitlab.com/gitlabandre/trader/-/blob/master/QUESTION%202%20-%20PROCEDURAL%20VERSION/T-SQL%20-%20Procedural%20Solution%20(Question%202).sql) including the script to create tables, inserts, function and the SQL procedure.
     #How to run: 
