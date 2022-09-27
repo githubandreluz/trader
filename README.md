@@ -12,12 +12,6 @@ This project assumes that any rule can be added or removed any time, and the cod
     - Unit Tests
     - Integration Tests
 
- #User interface: 
-    ![UserInterface](https://lh3.google.com/u/0/d/1i8M3cwCvmldmyarpvMydjGLAl-hmsRft=w1920-h890-iv1)
-    
-#Tests:
-    ![Tests](https://lh3.google.com/u/0/d/1MqlX414b55_DkvlECnXB5zZmV5YymbJI=w1920-h890-iv1)
-
 #How to run: 
         - Fill the file "inputFile_Portifolio.json" (located on application root) with the desired data, press F5 on Visual Situdio.
         
